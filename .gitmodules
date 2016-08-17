@@ -1,0 +1,3 @@
+[submodule "themes/hexo-theme-document"]
+	path = themes/hexo-theme-document
+	url = https://github.com/soulteary/hexo-theme-document.git
